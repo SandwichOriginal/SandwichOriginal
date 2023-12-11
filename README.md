@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandwichoriginal&label=Profile%20views&color=0e75b6&style=flat" alt="sandwichoriginal" /> </p>
 
-- 🔭 I’m currently working on [Cloak](Not Out Yet!)
+- 🔭 I’m currently working on Cloak
 
 - 🌱 I’m currently learning **JavaScript, CSS, NodeJs**
 
-- 🤝 I’m looking for help with [Cloak](Not Out Yet!)
+- 🤝 I’m looking for help with Cloak
 
-- 👨‍💻 All of my projects are available at [My Github Repos](My Github Repos)
+- 👨‍💻 All of my projects are available at My Github Repos
 
 - 💬 Ask me about **Anything you want!**
 
